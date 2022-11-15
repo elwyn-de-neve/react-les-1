@@ -1,0 +1,7 @@
+/* Class namen in de Testimonial.css mogen NIET elders bestaan binnen je CSS */
+.testimonial {
+    background-color: #8abfff;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px;
+}

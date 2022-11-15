@@ -1,0 +1,7 @@
+/* Class namen in de ProductCard.module.css mogen WEL elders bestaan binnen je CSS */
+.product {
+    background-color: #ff99ee;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px;
+}
